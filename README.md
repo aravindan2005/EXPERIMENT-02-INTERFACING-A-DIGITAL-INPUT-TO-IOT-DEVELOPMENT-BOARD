@@ -204,11 +204,12 @@ void Error_Handler(void)
 #endif
 ```
 ## OUTPUT
+
 ### Object Detected
 <img src="https://github.com/user-attachments/assets/3916f254-952c-4a48-82d7-3d206c16132d" width="800">
 
 ### Object Not Detected
-<img src="https://github.com/user-attachments/assets/634ad620-8550-43b7-ac67-d312b65370ce" width="800" alt="Object Detected">
+<img width="720" height="396" alt="WhatsApp Image 2026-08-14 at 9 43 04 AM" src="https://github.com/user-attachments/assets/78bfe0e0-be87-4c75-be7e-18e6b46506f7" />
 
 ## Result
 
