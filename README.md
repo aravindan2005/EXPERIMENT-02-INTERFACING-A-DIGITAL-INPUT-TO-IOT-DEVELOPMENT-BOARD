@@ -1,4 +1,4 @@
-# EXPERIMENT-02 INTERFACING A DIGITAL INPUT OUTPUT TO IOT DEVELOPMENT BOARD
+# EXPERIMENT 02 INTERFACING A DIGITAL INPUT OUTPUT TO IOT DEVELOPMENT BOARD
 
 
 **DATE: 14/08/2026**
@@ -204,10 +204,11 @@ void Error_Handler(void)
 #endif
 ```
 ## OUTPUT
-
+### Object Detected
 <img width="1599" height="899" alt="img1" src="https://github.com/user-attachments/assets/3916f254-952c-4a48-82d7-3d206c16132d" />
 
-<img width="1599" height="899" alt="img2" src="https://github.com/user-attachments/assets/61328ab3-1ebd-418d-abb5-07985caf5562" />
+### Object Not Detected
+<img width="1600" height="1007" alt="WhatsApp Image 2026-08-14 at 9 18 29 AM" src="https://github.com/user-attachments/assets/634ad620-8550-43b7-ac67-d312b65370ce" />
 
 ## Result
 
