@@ -205,7 +205,9 @@ void Error_Handler(void)
 ```
 
 ## OUTPUT
+
 <img width="1599" height="899" alt="img1" src="https://github.com/user-attachments/assets/3916f254-952c-4a48-82d7-3d206c16132d" />
+
 <img width="1599" height="899" alt="img2" src="https://github.com/user-attachments/assets/61328ab3-1ebd-418d-abb5-07985caf5562" />
 
 ## Result
